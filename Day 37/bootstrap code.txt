@@ -1,0 +1,214 @@
+<div class="row">
+                <!--Row Open-->
+                <div class="col-sm">
+                    
+                    <div>
+                        <img src="images/s2.jpg" alt="" class="img-thumbnail" >
+                    </div>
+               
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s3.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$800.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$1000.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+            </div>
+
+            <!--Row Close-->
+
+            <div class="row">
+                <!--Row Open-->
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s2.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s3.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$800.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$1000.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+            </div>
+
+            <!--Row Close-->
+
+            <div class="row">
+                <!--Row Open-->
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s2.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s3.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$500.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$800.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+                <div class="col-sm">
+                    <div>
+                        <img src="images/s8.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <h1>Branded Shoes</h1>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                    <h4>$1000.00</h4>
+                    <button>Add to cart</button>
+                </div>
+
+
+
+            </div>
+
+            <!--Row Close-->
