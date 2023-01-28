@@ -7,15 +7,15 @@ Example 1:
 
 <h3 align="center">Closures.</h3>
 
-                           function init(){ <br>
-                                     var firstName="Glady";  <br>
-                                     console.log("I am in init");  <br>
-                                     function sayHello(){  <br>
-                                        return console.log(`The first name is:${firstName}`);  <br>
-                                     }  <br>
-                                    return sayHello;  <br>
-                                   }  <br>
-                                   var g= init();<br>
+                           function init(){ 
+                                     var firstName="Glady"; 
+                                     console.log("I am in init");  
+                                     function sayHello(){ 
+                                        return console.log(`The first name is:${firstName}`);  
+                                     }  
+                                    return sayHello; 
+                                   } 
+                                   var g= init();
                                              g();
 
 
