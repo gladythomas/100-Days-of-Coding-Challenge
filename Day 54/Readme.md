@@ -6,18 +6,17 @@ A closure is the combination of a function bundled together (enclosed) with refe
 Example 1:
 
 <h3 align="center">Closures.</h3>
+
                            function init(){ <br>
-                            var firstName="Glady";  <br>
-                            console.log("I am in init");  <br>
-                            function sayHello(){  <br>
-                                return console.log(`The first name is:${firstName}`);  <br>
-                            }  <br>
-                         return sayHello;  <br>
-                        }  <br>
-
-                        var g= init();
-
-                        g();
+                                     var firstName="Glady";  <br>
+                                     console.log("I am in init");  <br>
+                                     function sayHello(){  <br>
+                                        return console.log(`The first name is:${firstName}`);  <br>
+                                     }  <br>
+                                    return sayHello;  <br>
+                                   }  <br>
+                                   var g= init();<br>
+                                             g();
 
 
                         
