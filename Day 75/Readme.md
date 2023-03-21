@@ -1,4 +1,5 @@
-<h1 align="center">Intersection of Two Arrays</h1>
+<h1 align="center">Set Matrix Zeroes.
+</h1>
 
 Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.
 
