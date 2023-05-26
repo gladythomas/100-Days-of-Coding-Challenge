@@ -1,12 +1,31 @@
-<h1 align="center">Electronic Shop</h1>
+<h1 align="center">Shuffle the Array</h1>
 
-- First created the class ElectronicShop.
-- Inside the class defined a static integer return type method getMoneySpent() that takes two integer arrays keyboards and drives and an integer variable b as parameters.
-- Inside the method declared an integer variable mostExpensive that is initialised to -1.
-- Then defined for loop that runs from 0 to keyboard array length.
-- Inside the loop defined that runs from 0 to drives array length.
-- Inside the loop declared an integer variable sum that stores ith element of keyboards array and jth element of drives array.
-- Then defined an if condition that checks if sum is smaller than or equal to b and sum is greater than mostExpensive.
-- If yes then mostExpensive variable stores sum value.
-- The method returns mostExpensive value.
-- Hence providing the output.
+
+Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+
+Return the array in the form [x1,y1,x2,y2,...,xn,yn].
+
+ 
+
+Example 1:
+
+                            Input: nums = [2,5,1,3,4,7], n = 3
+                            Output: [2,3,5,4,1,7] 
+                            Explanation: Since x1=2, x2=5, x3=1, y1=3, y2=4, y3=7 then the answer is [2,3,5,4,1,7].
+Example 2:
+
+                            Input: nums = [1,2,3,4,4,3,2,1], n = 4
+                            Output: [1,4,2,3,3,2,4,1]
+
+Example 3:
+
+                            Input: nums = [1,1,2,2], n = 2
+                            Output: [1,2,1,2]
+                            
+ 
+
+Constraints:
+
+                           -1 <= n <= 500
+                           -nums.length == 2n
+                           -1 <= nums[i] <= 10^3
